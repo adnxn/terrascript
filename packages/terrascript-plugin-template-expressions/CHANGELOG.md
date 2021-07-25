@@ -1,3 +1,10 @@
+# [@joshwycuff/terrascript-plugin-template-expressions-v1.1.0](https://github.com/joshwycuff/terrascript/compare/@joshwycuff/terrascript-plugin-template-expressions-v1.0.2...@joshwycuff/terrascript-plugin-template-expressions-v1.1.0) (2021-07-25)
+
+
+### Features
+
+* **template-expressions:** add spec.definitions shortcut def ([397db21](https://github.com/joshwycuff/terrascript/commit/397db2189cc77a6f6781c0f4b630ee75fdba2607))
+
 # [@joshwycuff/terrascript-plugin-template-expressions-v1.0.2](https://github.com/joshwycuff/terrascript/compare/@joshwycuff/terrascript-plugin-template-expressions-v1.0.1...@joshwycuff/terrascript-plugin-template-expressions-v1.0.2) (2021-05-23)
 
 
