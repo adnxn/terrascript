@@ -77,6 +77,7 @@ export default class TemplateExpressions implements TerrascriptPlugin {
       cmd,
       args,
     } = context;
+    const def = spec.definitions || {};
     // templating
     const match = TemplateExpressions.TEMPLATE_REGEX.exec(str);
     // eslint-disable-next-line @typescript-eslint/no-non-null-assertion
