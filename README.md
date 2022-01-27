@@ -390,7 +390,7 @@ targets:
   dev:
 modules:
   mymodule: scripts/mymodule.js
-scripts:
+actions:
   doathing:
     - echo $A_VAR
     - mymodule.func
